@@ -14,10 +14,9 @@ An analytics enthusiast having a deep interest in analyzing and telling stories 
 * ✉️  You can contact me at [laharidevikabandi@gmail.com](mailto:laharidevikabandi@gmail.com)
 
 ### Skills
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/dastanisha211" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
-width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Devikalahari03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-
-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Devikalahari03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
+width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/devika-lahari-dataanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/www.linkedin.com/in/devika-lahari-dataanalyst/" height="30" width="40" /></a>
