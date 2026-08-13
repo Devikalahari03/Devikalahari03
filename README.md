@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌍 Based in **Hyderabad, India** — open to **US remote roles**
+- 🌍 Based in **Hyderabad, India** — open to ** Remote roles**
 - 📊 I turn raw data into clear business insights through dashboards, reports, and predictive models
 - 🛠️ Experienced in Python, SQL, Power BI, and Excel across finance, operations, and ML domains
 - 🎓 Master's in Computer Science — Adikavi Nannaya University (2025)
