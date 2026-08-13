@@ -22,36 +22,36 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-#### 💳 [Credit Card Fraud Detection](https://github.com/Devikalahari03)
+#### 💳 [Credit Card Fraud Detection](https://github.com/Devikalahari03/Credit-Card-Fraud-Detection-)
 **Tools:** Python, scikit-learn, Pandas, Matplotlib  
 - Built a logistic regression classifier on **284,000+ transactions** with SMOTE to handle class imbalance  
 - Achieved **87% accuracy & 94% AUC-ROC score**, reducing false negatives vs baseline  
 - Visualized confusion matrix and ROC curves for non-technical stakeholders  
 
-#### 🌫️ [Air Quality Prediction](https://github.com/Devikalahari03)
+#### 🌫️ [Air Quality Prediction](https://github.com/Devikalahari03/Air-Quality-Prediction-and-Optimization)
 **Tools:** Python, Pandas, scikit-learn, Seaborn  
 - Engineered AQI prediction model using 8 pollutants (PM2.5, NO2, SO2, CO, O3) across **5,000+ hourly readings**  
 - Tuned Random Forest regressor via GridSearchCV — improved early-warning alert accuracy by **15%**  
 - Built EDA visualizations surfacing seasonal pollution patterns for environmental reporting  
 
-#### 📊 [Sales & Finance Analytics Dashboard](https://github.com/Devikalahari03)
+#### 📊 [Sales & Finance Analytics Dashboard]()
 **Tools:** Excel, Power Query, DAX, Pivot Tables  
 - Automated a **4-year P&L dashboard** tracking revenue, COGS, gross margin, and net profit KPIs  
 - Reduced reporting prep time by **25%** with dynamic slicers for region/product/time drill-down  
 - Designed executive-ready waterfall charts and trend lines used in quarterly business reviews  
 
-#### 🍕 [Pizza Sales Analysis](https://github.com/Devikalahari03)
+#### 🍕 [Pizza Sales Analysis]()
 **Tools:** SQL, MySQL, Power BI  
 - Queried **10,000+ order records** using CTEs, window functions, and JOINs to find top SKUs and peak hours  
 - Found top 3 categories drove **65%+ of revenue**; Friday evenings = **22% of weekly orders**  
