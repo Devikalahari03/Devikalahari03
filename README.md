@@ -79,13 +79,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Devika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devikalahari03&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devikalahari03&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Connect with Me
 
 - 📧 Email: [devikalaharibandi@gmail.com](mailto:devikalaharibandi@gmail.com)
